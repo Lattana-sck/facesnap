@@ -12,3 +12,13 @@ $ ng serve
 ```
 ***
 
+### Concepts abordés : 
+- String interpolation
+- Attribut Binding
+- Lier une méthode à un évènement
+- Décorateurs
+- Propriétés optionnelles à une classe
+- Pipes
+- Services
+- Routing
+- Observables
